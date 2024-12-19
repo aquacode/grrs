@@ -1,4 +1,4 @@
 # Rust example
 
-Based upon online documentation
+Based upon this tutorial: https://rust-cli.github.io/book/tutorial/index.html
 
